@@ -1,2 +1,2 @@
 # python-for-dummies
-100 python codes for tranning and learning
+More than 100 python codes for tranning and learning.
