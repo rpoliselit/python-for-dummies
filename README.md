@@ -3,6 +3,16 @@ This contains more than 100 scripts that I used to tranning and learning Python 
 
 - [Exercises](#exercises)
   - [The Zen of Python](#the-zen-of-python)
+  - [Hello World](#hello-world)
+  - [Input and Print](#input-and-print)
+  - [Math Operators](#math-operators)
+  - [Extract Information](#extract-information)
+  - [Read and Print Integers](#read-and-print-integers)
+  - [Double, Triple and Square Root](#double,-triple-and-square-root)
+  - [Calculate Average](#calculate-average)
+  - [Temperature Converter](#temperature-converter)
+  - [Mathematical Table](#mathematical-table)
+  - [Currency Converter](#currency-converter)
 - [Fluent Python](#fluent-python)
 
 ## Exercises
@@ -31,6 +41,84 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ```
 python 000.py
+```
+
+### Hello World
+Simplest and first code of universe!
+Texts are always enclosed in quotation marks.
+
+```
+python 001.py
+```
+
+### Input and Print
+Varible gets an input refered on console by the phrase enclosed in quotation marks '' or "".
+Inputs are always str type.
+Print function prints on console.
+
+```
+python 002.py
+```
+
+### Math Operators
+Variables x and y gets a number input as string (str), and int() transform it into integer number.
+Order of mathematical operations:
+1º ()
+2º **
+3º * , / , // , and %
+4º + , -
+
+```
+python 003.py
+```
+
+### Extract Information
+Extracting some information about variable 'object'.
+
+```
+python 004.py
+```
+
+### Read and Print Integers
+Make a script that reads a integer number and prints its predecessor and successor.
+
+```
+python 005.py
+```
+
+### Double, Triple and Square Root
+Make an algoritm that reads a number and prints its double, triple and square root.
+
+```
+python 006.py
+```
+
+### Calculate Average
+Make a code that reads the grades of a student, and calculate this mean.
+
+```
+python 007.py
+```
+
+### Temperature Converter
+Make a script that reads a temperature in Celsius degree and returns the temperature into Fahrenheits degree.
+
+```
+python 008.py
+```
+
+### Mathematical Table
+Make a script that reads any integer number, and returns its mathematical table.
+
+```
+python 009.py
+```
+
+### Currency Converter
+Make a script that converts dollars into bitcoin.
+
+```
+python 010.py
 ```
 
 ## Fluent Python
