@@ -63,10 +63,10 @@ python 002.py
 ### Math Operators
 Variables x and y gets a number input as string (str), and int() transform it into integer number.
 Order of mathematical operations:
-1º ()
-2º **
-3º * , / , // , and %
-4º + , -
+  1. ()
+  2. **
+  3. * , / , // , and %
+  4. + , -
 
 ```
 python 003.py
